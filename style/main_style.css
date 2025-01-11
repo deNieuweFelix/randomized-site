@@ -1,0 +1,11 @@
+body{
+    overflow: hidden;
+}
+*{
+    width: fit-content;
+    height: fit-content;
+}
+#mainContainer{
+    width: 100vw;
+    height: 100vh;
+}
