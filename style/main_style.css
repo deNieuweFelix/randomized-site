@@ -9,3 +9,10 @@ body{
     width: 100vw;
     height: 100vh;
 }
+/* some code to actually make buttons different from text lol */
+a:hover{
+    filter: brightness(70%);
+}
+button:hover{
+    filter: brightness(70%);
+}
